@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/GameSquare.scss"],"names":[],"mappings":"AAAA,OACE,WAAY,CACZ,YAAa,CACb,eAAgB,CAChB,qBAAuB,CACvB,kBAAmB","file":"main.4e30c13e.chunk.css","sourcesContent":["button {\n  width: 200px;\n  height: 200px;\n  font-size: 100px;\n  background-color: white;\n  vertical-align: top;\n}"]}

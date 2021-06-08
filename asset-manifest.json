@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TIM-Tac-Toe/static/css/main.4e30c13e.chunk.css",
+    "main.js": "/TIM-Tac-Toe/static/js/main.41d8b212.chunk.js",
+    "main.js.map": "/TIM-Tac-Toe/static/js/main.41d8b212.chunk.js.map",
+    "runtime-main.js": "/TIM-Tac-Toe/static/js/runtime-main.47799c80.js",
+    "runtime-main.js.map": "/TIM-Tac-Toe/static/js/runtime-main.47799c80.js.map",
+    "static/js/2.2681ee85.chunk.js": "/TIM-Tac-Toe/static/js/2.2681ee85.chunk.js",
+    "static/js/2.2681ee85.chunk.js.map": "/TIM-Tac-Toe/static/js/2.2681ee85.chunk.js.map",
+    "index.html": "/TIM-Tac-Toe/index.html",
+    "static/css/main.4e30c13e.chunk.css.map": "/TIM-Tac-Toe/static/css/main.4e30c13e.chunk.css.map",
+    "static/js/2.2681ee85.chunk.js.LICENSE.txt": "/TIM-Tac-Toe/static/js/2.2681ee85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47799c80.js",
+    "static/js/2.2681ee85.chunk.js",
+    "static/css/main.4e30c13e.chunk.css",
+    "static/js/main.41d8b212.chunk.js"
+  ]
+}
